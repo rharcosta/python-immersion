@@ -7,5 +7,5 @@ Set of activities developed in Python, following the Alura Immersion.
 * Class 05: Forecasting time series of stocks and careers in the data market.
 
 <p align="center">
-  <img src="https://github.com/rharcosta/python-immersion/blob/main/Graphic" />
+  <img src="https://github.com/rharcosta/python-immersion/blob/main/Graphic.png" />
 </p>
